@@ -7,6 +7,8 @@ Reference Microsoft Store Policy 10.2 https://docs.microsoft.com/en-us/windows/u
 EE64_SS is a regular Windows Screen Saver.
 EE64_SS doesn’t access/store/collect any personal information. 
 EE64_SS has no connection to computer's outside world what so ever.
+The only data that app read from and write to Windows Registry on local computer are about 
+speed movement of chess pieces and on / off sound during game.
 
 To be recognized by Windows as screen saver, file extension of EE64_FS_72.EXE, must be changed to EE64_FS_72.SCR and this EE64_FS_72.SCR file 
 has to be placed into the correct directory, usually C :\Windows\SysWOW64 or C:\Windows\System32.
