@@ -1,7 +1,5 @@
 # EE64(EE64_FS)
 
-To User.
-
 EE64 is a regular stand alone Windows application.
 EE64 doesn’t access/store/collect any personal information. 
 EE64 has no connection to computer's outside world what so ever.
@@ -27,8 +25,6 @@ Enter - click to continue with the game.
 
 # EE64_SS(EE64_FS_72)
 
-To User.
-
 EE64_SS is a regular Windows Screen Saver.
 EE64_SS doesn’t access/store/collect any personal information. 
 EE64_SS has no connection to computer's outside world what so ever.
@@ -40,9 +36,7 @@ for a specified period of time.
 Also screen savers are often set up(configured) to offer a basic layer of security, by asking users a password before permitting to resume work.
 When compiling the list of available screen savers, Windows searches the Startup directory for files with the* .SCR extension.
 
-EE64_SS - simulates the World Chess Championship 1972 - Match of the Century(21 games) between challenger Bobby Fischer(USA) and defending champion Boris Spassky(USSR).
-Fischer won the match 12½–8½, becoming the eleventh undisputed world championand became the first American born in the United States to win the world title.
-Fischer's win also ended 24 years of Soviet domination of the World Championship.
+User's instruction.
 
 To be recognized by Windows as screen saver, file extension of EE64_FS_72.EXE, must be changed to EE64_FS_72.SCR and this EE64_FS_72.SCR file 
 has to be placed into the correct directory, usually C :\Windows\SysWOW64 or C:\Windows\System32.
