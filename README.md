@@ -23,7 +23,7 @@ Enter - click to stop game to analyze current position.
 Enter - click to continue with the game.
 
 
-# EE64_SS(EE64_FS_72)
+# EE64(EE64_FS_72)
 
 EE64_SS is a regular Windows Screen Saver.
 EE64_SS doesn’t access/store/collect any personal information. 
