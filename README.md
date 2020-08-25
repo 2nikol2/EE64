@@ -1,4 +1,4 @@
-# EE64(EE64_FS)
+# EE64(EE64_EXE)
 
 EE64 is a regular stand alone Windows application.
 EE64 doesn’t access/store/collect any personal information. 
@@ -23,7 +23,7 @@ Enter - click to stop game to analyze current position.
 Enter - click to continue with the game.
 
 
-# EE64(EE64_FS_72)
+# EE64(EE64_SCR)
 
 EE64_SS is a regular Windows Screen Saver.
 EE64_SS doesn’t access/store/collect any personal information. 
