@@ -25,9 +25,10 @@ Enter - click to continue with the game.
 
 # EE64(EE64_SCR)
 
-EE64_SS is a regular Windows Screen Saver.
-EE64_SS doesn’t access/store/collect any personal information. 
-EE64_SS has no connection to computer's outside world what so ever.
+EE64 is a regular Windows Screen Saver.
+EE64 doesn’t access/store/collect any personal information. 
+EE64 has no connection to computer's outside world what so ever.
+
 The only data that app read from and write to Windows Registry on local computer are about 
 speed movement of chess pieces and on / off sound during game.
 
@@ -38,11 +39,11 @@ When compiling the list of available screen savers, Windows searches the Startup
 
 User's instruction.
 
-To be recognized by Windows as screen saver, file extension of EE64_FS_72.EXE, must be changed to EE64_FS_72.SCR and this EE64_FS_72.SCR file 
+To be recognized by Windows as screen saver, file extension of EE64.EXE, must be changed to EE64.SCR and this EE64.SCR file 
 has to be placed into the correct directory, usually C :\Windows\SysWOW64 or C:\Windows\System32.
 
 To configure(preview) screen saver go to Windows Settings(Control Panel)->Personalization->Lock screen->Screen Saver Settings...
-In drop - down list box find string -> "F vs S(1972)"-> as the screen saver name.
+In drop - down list box find string -> "Fischer-Spassky(1972)"-> as the screen saver name.
 In Settings... you can customize piece's speed movement and sound of delay before next game. 
 Set up wait time before screen saver start.
 Check box what to do on resume, Windows will or not ask for login password.
