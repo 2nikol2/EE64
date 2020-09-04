@@ -36,9 +36,12 @@ When compiling the list of available screen savers, Windows searches the Startup
 User's instruction.
 
 To be recognized by Windows as screen saver, file extension of EE64.EXE, must be changed to EE64.SCR and this EE64.SCR file 
-has to be placed into the correct directory, usually C :\Windows\SysWOW64 or C:\Windows\System32.
+has to be placed into the correct directory, usually C :\Windows\SysWOW64.
 
 To pre-view screen saver go to Windows Settings(Control Panel)->Personalization->Lock screen->Screen Saver Settings...
 In drop - down list box find string -> "Fischer-Spassky(1972)"-> as the screen saver name.
 To activate screen saver push Apply and Ok buttons.
+
+Before each game begins there are the count start from 5 to 0.
+After each game ends there are freeze of screen for about 10 sec, for user to see ending position and then next game starts.
 
