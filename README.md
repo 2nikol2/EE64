@@ -44,4 +44,5 @@ To activate screen saver push Apply and Ok buttons.
 
 Before each game begins there are the count start from 5 to 0.
 After each game ends there are freeze of screen for about 10 sec, for user to see ending position and then next game starts.
+Game 2: Fischer forfeits.
 
