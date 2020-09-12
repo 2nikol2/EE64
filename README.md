@@ -12,13 +12,16 @@ All logic and all moves for 21 games are in single executable.
 
 User's instruction.
 
-Enter(keyboard's key) - click to start match or next game in current match.
-Esc(keyboard's key) - click to exit the application.
+1 - Enter(keyboard's key) - press to start the match(first game).     
+    At the end of each game screen is frozen to show the final position.  
 
-During game.
+2 - Enter - press, will show the opening position of next game in the match.
 
-Enter - click to stop game to analyze current position.
-Enter - click to continue with the game.
+3 - Enter - press to start the game.     
+    Enter - press to stop the game at current position.     
+    Enter - press to continue with the game.
+
+4 - Esc(keyboard's key) - press to exit the application.
 
 
 # EE64(EE64_SCR)
