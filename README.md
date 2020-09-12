@@ -1,8 +1,6 @@
 # EE64(EE64_EXE)
 
 EE64 is a regular stand alone Windows application.
-EE64 doesn’t access/store/collect any personal information. 
-EE64 has no connection to computer's outside world what so ever.
 
 EE64 simulates the World Chess Championship 1972 - Match of the Century(21 games) between Bobby Fischer(USA) and Boris Spassky(USSR).
 Fischer won the match 12½–8½.
@@ -26,8 +24,6 @@ Enter - click to continue with the game.
 # EE64(EE64_SCR)
 
 EE64 is a regular Windows Screen Saver.
-EE64 doesn’t access/store/collect any personal information. 
-EE64 has no connection to computer's outside world what so ever.
 
 Microsoft Windows supports special applications called screen savers - a computer program that start automaticly when the mouse and keyboard have been idle
 for a specified period of time.
