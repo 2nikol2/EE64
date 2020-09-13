@@ -34,7 +34,6 @@ for a specified period of time.
 When compiling the list of available screen savers, Windows searches the Startup directory for files with the "SCR" extension, usually C:\Windows\system32 
 or C:\Windows\SysWOW64.
 Consult Windows doc how to Install New Screen Saver and activate it in Screen Saver Settings window on your computer.
-On top all reasons to use screen savers, it can help to conceal sensitive information left( accidentally ) on the screen.
 
 User instruction
 
@@ -43,7 +42,7 @@ EE64 can be run in two modes.
 1 - Manually - double clicking on it, screen savers are standard Windows executable.
     But be careful, because it's screensaver - it will be terminated at once on first mouse's movement or use of keyboard.
 
-2 - Auto mode - as regular classic screensaver on Windows. 
+2 - Auto mode - as regular classic screensaver on Windows.
     Consult Windows doc how to Install New Screen Saver and activate it in Screen Saver Settings window on your computer.  
       
 Showtime.
@@ -51,3 +50,9 @@ Showtime.
 Before each game begins there are the count start from 5 to 0. 
 After each game ends there are freeze of screen for about 10 sec, to show ending position and then next game starts. 
 Game 2: Fischer forfeits.
+
+P.S.
+
+On top all reasons to use screen savers, it can help to conceal sensitive information left( accidentally ) on the screen.
+
+
