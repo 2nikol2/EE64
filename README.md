@@ -39,15 +39,13 @@ User instruction
 
 EE64 can be run in two modes.
 
-1 - Manually - double clicking on it, screen savers are standard Windows executable. Pay attention - because it's screensaver, it will be terminated at once     on first mouse's movement or use of keyboard.
+1 - Manually - double clicking on it, screen savers are standard Windows executable.   Pay attention - because it's screensaver, it will be terminated at         once on first mouse's movement or use of keyboard.
 
-2 - Auto mode - as regular classic screensaver on Windows. Consult Windows doc how to Install New Screen Saver and activate it in Screen Saver Settings           window on your computer.  
+2 - Auto mode - as regular classic screensaver on Windows.   Consult Windows doc how to Install New Screen Saver and activate it in Screen Saver Settings         window on your computer.  
       
 Showtime.
 
-Before each game begins there are the count start from 5 to 0.
-After each game ends there are freeze of screen for about 10 sec, to show ending position and then next game starts.
-Game 2: Fischer forfeits.
+Before each game begins there are the count start from 5 to 0.   After each game ends there are freeze of screen for about 10 sec, to show ending position and then next game starts.   Game 2: Fischer forfeits.
 
 P.S.
 
