@@ -40,7 +40,7 @@ User instruction
 EE64 can be run in two modes.
 
 1 - Manually - double clicking on it, screen savers are standard Windows executable.
-    But be careful, because it's screensaver - it will be terminated at once on first mouse's movement or use of keyboard.
+    Pay attention - because it's screensaver, it will be terminated at once on first mouse's movement or use of keyboard.
 
 2 - Auto mode - as regular classic screensaver on Windows.
     Consult Windows doc how to Install New Screen Saver and activate it in Screen Saver Settings window on your computer.  
