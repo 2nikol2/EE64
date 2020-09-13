@@ -27,21 +27,27 @@ User's instruction.
 # EE64(EE64_SCR)
 
 EE64 is a regular Windows Screen Saver.
+It's simulates, animates moves of all 21th games of World Chess Championship 1972 between Fischer-Spassky, Match of the Century.
 
-Microsoft Windows supports special applications called screen savers - a computer program that start automaticly when the mouse and keyboard have been idle
+Microsoft Windows supports special applications called screensaver - a computer program that start automatically when the mouse and keyboard have been idle
 for a specified period of time.
-When compiling the list of available screen savers, Windows searches the Startup directory for files with the* .SCR extension.
+When compiling the list of available screen savers, Windows searches the Startup directory for files with the "SCR" extension, usually C:\Windows\system32 
+or C:\Windows\SysWOW64.
+Consult Windows doc how to Install New Screen Saver and activate it in Screen Saver Settings window on your computer.
+On top all reasons to use screen savers, it can help to conceal sensitive information left( accidentally ) on the screen.
 
-User's instruction.
+User instruction
 
-To be recognized by Windows as screen saver, file extension of EE64.EXE, must be changed to EE64.SCR and this EE64.SCR file 
-has to be placed into the correct directory, usually C :\Windows\SysWOW64.
+EE64 can be run in two modes.
 
-To pre-view screen saver go to Windows Settings(Control Panel)->Personalization->Lock screen->Screen Saver Settings...
-In drop - down list box find string -> "Fischer-Spassky(1972)"-> as the screen saver name.
-To activate screen saver push Apply and Ok buttons.
+1 - Manually - double clicking on it, screen savers are standard Windows executable.
+    But be careful, because it's screensaver - it will be terminated at once on first mouse's movement or use of keyboard.
 
-Before each game begins there are the count start from 5 to 0.
-After each game ends there are freeze of screen for about 10 sec, for user to see ending position and then next game starts.
+2 - Auto mode - as regular classic screensaver on Windows. 
+    Consult Windows doc how to Install New Screen Saver and activate it in Screen Saver Settings window on your computer.  
+      
+Showtime.
+
+Before each game begins there are the count start from 5 to 0. 
+After each game ends there are freeze of screen for about 10 sec, to show ending position and then next game starts. 
 Game 2: Fischer forfeits.
-
