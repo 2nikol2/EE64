@@ -26,7 +26,7 @@ User's instruction.
 
 # EE64(EE64_SCR)
 
-EE64 is a regular Windows Screen Saver.
+EE64 is a regular Windows Screen Saver.  
 It's simulates, animates moves of all 21th games of World Chess Championship 1972 between Fischer-Spassky, Match of the Century.
 
 Microsoft Windows supports special applications called screensaver - a computer program that start automatically when the mouse and keyboard have been idle
