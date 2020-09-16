@@ -1,4 +1,4 @@
-# EE64(EE64_EXE)
+# EE64
 
 EE64 is a regular stand alone Windows application.
 
@@ -24,7 +24,7 @@ User's instruction.
 4 - Esc(keyboard's key) - press to exit the application.
 
 
-# EE64(EE64_SCR)
+# EE64(SCR)
 
 EE64 is a regular Windows Screen Saver.  
 It's simulates, animates moves of all 21th games of World Chess Championship 1972 between Fischer-Spassky, Match of the Century.
