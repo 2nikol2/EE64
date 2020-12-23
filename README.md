@@ -1,28 +1,64 @@
-# EE64
+# G21
 
-EE64 is a regular stand alone Windows application.
-
-EE64 simulates the World Chess Championship 1972 - Match of the Century(21 games) between Bobby Fischer(USA) and Boris Spassky(USSR).
-Fischer won the match 12½–8½.
+G21 is a regular stand alone Windows application.
+G21 simulates(full animation) Match of the Century - the World Chess Championship( 1972 ).
+Bobby Fischer, USA ( 12½ ) vs Boris Spassky, USSR ( 8½ ). 
 Fischer's win ended Soviet domination of the World Championship.
 
-This is the smallest chess simulator you can find ~71KB.
-Because of small size, there are no extra waste of Windows resources.
-All logic and all moves for 21 games are in single executable.
+G21 was designed with the goal to entertain you.
+G21 wants to show you beautiful game, played by masters.
+G21 is one of the best-looking chess simulators.
+The design and graphic is very expressive, elegant and powerful.
+It's just like favorite movie... you want to play it again and again...
+Ok... Now... Sit back... Relax... and Enjoy...
 
 User's instruction.
 
-1 - Enter(keyboard's key) - press to start the match(first game).     
-    At the end of each game screen is frozen to show the final position.  
+G21 has many interesting features.
 
-2 - Enter - press, will show the opening position of next game in the match.
+1 - Start game and play the whole match in full animation mode.
+     ( Enter (twice) - go to game and start it... )
+  
+2 - Choose specific game and play it. 
+     ( Page Up, Down...   Enter... ) 
 
-3 - Enter - press to start the game.     
-    Enter - press to stop the game at current position.     
-    Enter - press to continue with the game.
+3 - At any point in a game you can:
+    - go to the very end or beginning.
+      ( End... Home... )  
+    - stop - start game... just to see( analyze ) current position. 
+      ( Enter... )
 
-4 - Esc(keyboard's key) - press to exit the application.
+Next features require game be in STOP mode ( Enter... ).
 
+4 - Play one-move animation. ( Arrow Up... ) 
+   - Start next only after current done.   
+5 - Jump to random move in game. ( Arrow Left... Arrow Right... Enter... ) 
+
+While in STOP mode,  4 & 5 can be utilized in loop.
+Press - Enter - to return full animation.
+                 
+P.S. - A bit about implementation of G21.
+
+G21 developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
+All logic and moves are in single executable. 
+Despite being very functional, G21 is probably the smallest chess emulator you can find on market(size G21.exe just ~ 66KB).
+As the bottom line - it consumes very little computer's resource(CPU ~ 1% & RAM ~ 9MB).
+
+P.S. after P.S. - Keyboard interface.
+
+Enter - start game
+        - ( already in game ) - switch mode ( STOP - START )   
+        - ( at welcome screen ) - go first game
+        - ( at FIN or G2 screen ) - go next game
+        - commit any changes ( see... Page Up, Down,  Arrow Left, Right )
+ 
+Esc - Quit app
+      - disregard any changes ( see... Arrow Left, Right )
+
+Home ( End ) - go game's Begin ( End )  
+Page Up ( Down ) -  go one game Up ( Down )
+Arrow Left ( Right )  -  jump to random move ( STOP mode first... )
+Arrow Up    -  one-move animation( STOP mode first... )
 
 # EE64(SCR)
 
