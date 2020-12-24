@@ -10,55 +10,65 @@ G21 wants to show you beautiful game, played by masters.
 G21 is one of the best-looking chess simulators.
 The design and graphic is very expressive, elegant and powerful.
 It's just like favorite movie... you want to play it again and again...
-Ok... Now... Sit back... Relax... and Enjoy...
+Ok... Now... 
+Sit back... Relax... and Enjoy...
 
-User's instruction.
-
-G21 has many interesting features.
+G21 has many interesting features to play.
 
 1 - Start game and play the whole match in full animation mode.
-     ( Enter (twice) - go to game and start it... )
+   - Enter - go to game...
+   - Enter - start it...
+
+2 - Choose specific game to play. 
+   - Page Up, Down - pick game...
+   - Enter - commit...
+   - Esc - disregard...
+
+3 - Go to game end or beginning.
+   - End...
+   - Home...   
+
+4 - Start - Stop game. 
+   - Enter...
+   - Enter...
+
+Next features require game be in STOP mode ( see #4 ).
+
+5 - Play one-move animation. 
+   - Arrow Up... 
   
-2 - Choose specific game and play it. 
-     ( Page Up, Down...   Enter... ) 
+6 - Jump to random move in game.
+   - Arrow Left, Right - to open pick screen...
+   - Arrow Left, Right - pick move...
+   - Enter - commit...
+   - Esc - disregard...
 
-3 - At any point in a game you can:
-    - go to the very end or beginning.
-      ( End... Home... )  
-    - stop - start game... just to see( analyze ) current position. 
-      ( Enter... )
-
-Next features require game be in STOP mode ( Enter... ).
-
-4 - Play one-move animation. ( Arrow Up... ) 
-   - Start next only after current done.   
-5 - Jump to random move in game. ( Arrow Left... Arrow Right... Enter... ) 
-
-While in STOP mode,  4 & 5 can be utilized in loop.
-Press - Enter - to return full animation.
+You still in STOP mode.
+Can utilize #5, #6 in loop. 
+To go back to START( full animation ) mode - push Enter( see #4 ). 
                  
-P.S. - A bit about implementation of G21.
-
-G21 developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
-All logic and moves are in single executable. 
-Despite being very functional, G21 is probably the smallest chess emulator you can find on market(size G21.exe just ~ 66KB).
-As the bottom line - it consumes very little computer's resource(CPU ~ 1% & RAM ~ 9MB).
-
-P.S. after P.S. - Keyboard interface.
+Keyboard interface summary.
 
 Enter - start game
         - ( already in game ) - switch mode ( STOP - START )   
         - ( at welcome screen ) - go first game
         - ( at FIN or G2 screen ) - go next game
-        - commit any changes ( see... Page Up, Down,  Arrow Left, Right )
+        - commit any changes ( see... #2, #6 )
  
 Esc - Quit app
-      - disregard any changes ( see... Arrow Left, Right )
+      - disregard any changes ( see... #2, #6 )
 
-Home ( End ) - go game's Begin ( End )  
-Page Up ( Down ) -  go one game Up ( Down )
-Arrow Left ( Right )  -  jump to random move ( STOP mode first... )
-Arrow Up    -  one-move animation( STOP mode first... )
+Home ( End ) - see... #3  
+Page Up ( Down ) -  see... #2
+Arrow Left ( Right )  -  see... #6
+Arrow Up    -  see... #5
+
+P.S. - About implementation of G21.
+
+G21 developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
+All logic and moves are in single executable. 
+Despite being very functional, G21 is probably the smallest chess emulator you can find on market(size G21.exe just ~ 66KB).
+As the bottom line - it consumes very little computer's resource(CPU ~ 1% & RAM ~ 9MB).
 
 # EE64(SCR)
 
