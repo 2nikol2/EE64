@@ -18,9 +18,7 @@ The design and graphic is very expressive, elegant and powerful.
 
 It's just like favorite movie... you want to play it again and again...
 
-Ok... Now... 
-
-Sit back... Relax... and Enjoy...
+Ok... Now... Sit back... Relax... and Enjoy...
 
 G21 has many interesting features to play.
 
@@ -52,25 +50,28 @@ Next features require game be in STOP mode ( see #4 ).
    - Enter - commit...
    - Esc - disregard...
 
-You still in STOP mode.
-Can utilize #5, #6 in loop. 
-To go back to START( full animation ) mode - push Enter( see #4 ). 
+You still in STOP mode. Can utilize #5, #6 in loop. To go back to START( full animation ) mode - push Enter( see #4 ). 
                  
 Keyboard interface summary.
 
-Enter - start game
-        - ( already in game ) - switch mode ( STOP - START )   
-        - ( at welcome screen ) - go first game
-        - ( at FIN or G2 screen ) - go next game
-        - commit any changes ( see... #2, #6 )
+1 - Enter
+  - start game
+  - ( already in game ) - switch mode ( STOP - START )   
+  - ( at welcome screen ) - go first game
+  - ( at FIN or G2 screen ) - go next game
+  - commit any changes ( see... #2, #6 )
  
-Esc - Quit app
-      - disregard any changes ( see... #2, #6 )
+2 - Esc
+  - Quit app
+  - disregard any changes ( see... #2, #6 )
 
-Home ( End ) - see... #3  
-Page Up ( Down ) -  see... #2
-Arrow Left ( Right )  -  see... #6
-Arrow Up    -  see... #5
+3 - Home ( End ) - see... #3  
+
+4 - Page Up ( Down ) -  see... #2
+
+5 - Arrow Left ( Right )  -  see... #6
+
+6 - Arrow Up    -  see... #5
 
 P.S. - About implementation of G21.
 
