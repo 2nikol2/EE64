@@ -1,6 +1,7 @@
 # G21
 
 G21 is a regular stand alone Windows application. 
+
 G21 simulates(full animation) Match of the Century - the World Chess Championship( 1972 ). 
 Bobby Fischer, USA ( 12½ ) vs Boris Spassky, USSR ( 8½ ). 
 Fischer's win ended Soviet domination of the World Championship.
