@@ -57,15 +57,20 @@ P.S. Keyboard interface summary(no mouse).
   - ( at welcome screen ) - go to first game
   - ( at FIN or G2 screen ) - go to next game
   - commit any changes ( see... #2, #6 ) 
+  
 2 - Esc
   - Quit app
   - disregard any changes ( see... #2, #6 )
+  
 3 - Home ( End )
   - see... #3  
+  
 4 - Page Up ( Down )
   - see... #2
+  
 5 - Arrow Left ( Right )
   - see... #6
+  
 6 - Arrow Up
   - see... #5
 
