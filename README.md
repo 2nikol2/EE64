@@ -51,11 +51,12 @@ To go back to START( resume full animation ) - push Enter( see #4 ).
                  
 P.S. Keyboard interface summary(no mouse).
 
-Enter - start game
-        - ( already in game ) - switch mode ( STOP - START )          
-        - ( at welcome screen ) - go to first game
-        - ( at FIN or G2 screen ) - go to next game
-        - commit any changes ( see... #2, #6 )
+1 - Enter
+  - start game
+  - ( already in game ) - switch mode ( STOP - START )          
+  - ( at welcome screen ) - go to first game
+  - ( at FIN or G2 screen ) - go to next game
+  - commit any changes ( see... #2, #6 )
  
 Esc - Quit app
       - disregard any changes ( see... #2, #6 )
