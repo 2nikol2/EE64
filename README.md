@@ -1,30 +1,23 @@
 # G21
 
-G21 is a regular stand alone Windows application.
+Quickstart Guide! 
 
-G21 simulates(full animation) Match of the Century - the World Chess Championship( 1972 ).
-
-Bobby Fischer, USA ( 12½ ) vs Boris Spassky, USSR ( 8½ ).
-
+G21 is a chess viewer.
+G21 allows you to simulates, view in full animation, Match of the Century - the World Chess Championship( 1972 ).
+Bobby Fischer, USA ( 12½ ) vs Boris Spassky, USSR ( 8½ ). 
 Fischer's win ended Soviet domination of the World Championship.
 
 G21 was designed with the goal to entertain you.
-
 G21 wants to show you beautiful game, played by masters.
-
 G21 is one of the best-looking chess simulators.
-
 The design and graphic is very expressive, elegant and powerful.
-
 It's just like favorite movie... you want to play it again and again...
+Ok... Now... 
+Sit back... Relax... and Enjoy...
 
-Ok... Now... Sit back... Relax... and Enjoy...
+Here are G21 features.
 
-
-
-G21 has many interesting features to play.
-
-1 - Start game and play the whole match in full animation mode.
+1 - Autoplay - start and play the whole match, move by move, automatically.
    - Enter - go to game...
    - Enter - start it...
 
@@ -33,53 +26,51 @@ G21 has many interesting features to play.
    - Enter - commit...
    - Esc - disregard...
 
-3 - Go to game end or beginning.
+3 - Go to game End or Start.
    - End...
-   - Home...   
+   - Home...
 
-4 - Start - Stop game. 
+4 - Stop - Start ( pause and resume ) game. 
    - Enter...
    - Enter...
 
-Next features require game be in STOP mode ( see #4 ).
+Next features require game be in STOP ( pause ) mode ( see #4 ).
 
-5 - Play one-move animation. 
-   - Arrow Up... 
-  
-6 - Jump to random move in game.
+5 - Play one move forward. 
+   - Arrow Up...  
+
+6 - Jump to random move.
    - Arrow Left, Right - to open pick screen...
    - Arrow Left, Right - pick move...
    - Enter - commit...
    - Esc - disregard...
 
-You still in STOP mode. Can utilize #5, #6 in loop. To go back to START( full animation ) mode - push Enter( see #4 ). 
+You still in STOP ( pause ) mode.
+Can utilize #5, #6 in loop. 
+To go back to START( resume full animation ) - push Enter( see #4 ).
                  
-Keyboard interface summary.
+P.S. Keyboard interface summary(no mouse).
 
-1 - Enter
-  - start game
-  - ( already in game ) - switch mode ( STOP - START )   
-  - ( at welcome screen ) - go first game
-  - ( at FIN or G2 screen ) - go next game
-  - commit any changes ( see... #2, #6 )
+Enter - start game
+        - ( already in game ) - switch mode ( STOP - START )          
+        - ( at welcome screen ) - go to first game
+        - ( at FIN or G2 screen ) - go to next game
+        - commit any changes ( see... #2, #6 )
  
-2 - Esc
-  - Quit app
-  - disregard any changes ( see... #2, #6 )
+Esc - Quit app
+      - disregard any changes ( see... #2, #6 )
 
-3 - Home ( End ) - see... #3  
+Home ( End ) - see... #3  
+Page Up ( Down ) -  see... #2
+Arrow Left ( Right )  -  see... #6
+Arrow Up    -  see... #5
 
-4 - Page Up ( Down ) -  see... #2
+P.S. - About G21.
 
-5 - Arrow Left ( Right )  -  see... #6
-
-6 - Arrow Up    -  see... #5
-
-P.S. - About implementation of G21.
-
-G21 developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
+G21 is a regular stand alone Windows application.
+It's developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
 All logic and moves are in single executable. 
-Despite being very functional, G21 is probably the smallest chess emulator you can find on market(size G21.exe just ~ 66KB).
+Despite being very functional, G21 is probably the smallest chess emulator you can find on market( G21.exe ~ 66KB ).
 As the bottom line - it consumes very little computer's resource(CPU ~ 1% & RAM ~ 9MB).
 
 # EE64(SCR)
