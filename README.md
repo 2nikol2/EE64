@@ -51,7 +51,7 @@ To go back to START( resume full animation ) - push Enter( see #4 ).
                  
 P.S. Keyboard interface summary(no mouse).
 
-1 - Enter
+-Enter-
   - start game
   - ( already in game ) - switch mode ( STOP - START )          
   - ( at welcome screen ) - go to first game
