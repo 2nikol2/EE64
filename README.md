@@ -63,15 +63,15 @@ P.S. Keyboard interface summary(no mouse).
   - disregard any changes ( see... #2, #6 )
   
 -Home(End)-
-  - see... #3  
+  - see... #3
   
-- Page Up(Down)-
+-Page Up(Down)-
   - see... #2
   
-- Arrow Left(Right)-
+-Arrow Left(Right)-
   - see... #6
   
-- Arrow Up-
+-Arrow Up-
   - see... #5
 
 P.S. - About G21.
