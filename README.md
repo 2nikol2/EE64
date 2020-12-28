@@ -50,7 +50,6 @@ Can utilize #5, #6 in loop.
 To go back to START( resume full animation ) - push Enter( see #4 ).
                  
 P.S. Keyboard interface summary(no mouse).
-
 -Enter-
   - start game
   - ( already in game ) - switch mode ( STOP - START )          
@@ -58,24 +57,23 @@ P.S. Keyboard interface summary(no mouse).
   - ( at FIN or G2 screen ) - go to next game
   - commit any changes ( see... #2, #6 ) 
   
-2 - Esc
+-Esc-
   - Quit app
   - disregard any changes ( see... #2, #6 )
   
-3 - Home ( End )
+-Home(End)-
   - see... #3  
   
-4 - Page Up ( Down )
+- Page Up(Down)-
   - see... #2
   
-5 - Arrow Left ( Right )
+- Arrow Left(Right)-
   - see... #6
   
-6 - Arrow Up
+- Arrow Up-
   - see... #5
 
 P.S. - About G21.
-
 G21 is a regular stand alone Windows application.
 It's developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
 All logic and moves are in single executable. 
