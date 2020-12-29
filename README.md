@@ -1,21 +1,25 @@
 # G21
 
-Quickstart Guide! 
+EE64 - Quickstart Guide! 
 
-G21 is a chess viewer.
-G21 allows you to simulates, view in full animation, Match of the Century - the World Chess Championship( 1972 ).
+EE64 is a chess play viewer algorithm.
+EE64 allows you to simulates, view in full animation, play of chess.
+EE64 would present series of chess matches. 
+Each match will be developed as a separate app.
+
+Currently EE64 includes Match of the Century - the World Chess Championship( 1972 ).     
 Bobby Fischer, USA ( 12½ ) vs Boris Spassky, USSR ( 8½ ). 
 Fischer's win ended Soviet domination of the World Championship.
 
-G21 was designed with the goal to entertain you.
-G21 wants to show you beautiful game, played by masters.
-G21 is one of the best-looking chess simulators.
+EE64 was designed with the goal to entertain you.
+EE64 wants to show you beautiful game, played by masters.
+EE64 is one of the best-looking chess simulators.
 The design and graphic is very expressive, elegant and powerful.
 It's just like favorite movie... you want to play it again and again...
 Ok... Now... 
 Sit back... Relax... and Enjoy...
 
-Here are G21 features.
+Here are EE64 features.
 
 1 - Autoplay - start and play the whole match, move by move, automatically.
    - Enter - go to game...
@@ -74,12 +78,12 @@ P.S. Keyboard interface summary(no mouse).
 -Arrow Up-
   - see... #5
 
-P.S. - About G21.
+P.S. - About EE64.
 
-G21 is a regular stand alone Windows application.
+EE64 is a regular stand alone Windows application.
 It's developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
 All logic and moves are in single executable. 
-Despite being very functional, G21 is probably the smallest chess emulator you can find on market( G21.exe ~ 66KB ).
+Despite being very functional, EE64 is probably the smallest chess emulator you can find on market( executable ~ 66KB ).
 As the bottom line - it consumes very little computer's resource(CPU ~ 1% & RAM ~ 9MB).
 
 # EE64(SCR)
