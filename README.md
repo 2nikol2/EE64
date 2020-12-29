@@ -1,5 +1,3 @@
-# G21
-
 EE64 - Quickstart Guide! 
 
 EE64 is a chess play viewer algorithm.
@@ -86,9 +84,9 @@ All logic and moves are in single executable.
 Despite being very functional, EE64 is probably the smallest chess emulator you can find on market( executable ~ 66KB ).
 As the bottom line - it consumes very little computer's resource(CPU ~ 1% & RAM ~ 9MB).
 
-# EE64(SCR)
+# SCR
 
-EE64 is a regular Windows Screen Saver.  
+SCR is a regular Windows Screen Saver.  
 It's simulates, animates moves of all 21th games of World Chess Championship 1972 between Fischer-Spassky, Match of the Century.
 
 Microsoft Windows supports special applications called screensaver - a computer program that start automatically when the mouse and keyboard have been idle
