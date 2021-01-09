@@ -53,7 +53,6 @@ Can utilize #5, #6 in loop.
 To go back to START( resume full animation ) - push Enter( see #4 ).
                  
 P.S. - Keys summary(no mouse).
-
 -Enter-
   - start game
   - ( already in game ) - switch mode ( STOP - START )          
@@ -78,9 +77,10 @@ P.S. - Keys summary(no mouse).
   - see... #5
 
 P.S. - About EE64.
-
 EE64 is a regular stand alone Windows application.
 It's developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.
 All logic and moves are in single executable. 
 Despite being very functional, EE64 is probably the best-looking and the smallest chess emulator you can find on market( executable ~ 66KB ).
 As the bottom line - it consumes very little computer's resource( CPU ~ 1% ).
+
+P.S. - Any questions email - c2koko2c@outlook.com
