@@ -11,7 +11,7 @@ Ok...
 Showtime... 
 Sit back... Relax... and Enjoy...
 
-Currently on the market( Microsoft Store )...
+Currently on the market( Microsoft Store )... GO1972...
 
 1 - GO1972
   - Match of the Century - World Chess Championship( 1972 ).     
@@ -58,7 +58,7 @@ P.S. - Keys summary(no mouse).
   - start game
   - ( already in game ) - switch mode ( STOP - START )          
   - ( at welcome screen ) - go to first game
-  - ( at FIN or G2 screen ) - go to next game
+  - ( at FIN or G2 screen ) - go to next game ( G2 screen - only in GO1972 )
   - commit any changes ( see... #2, #6 ) 
   
 -Esc-
