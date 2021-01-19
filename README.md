@@ -11,12 +11,18 @@ Ok...
 Showtime... 
 Sit back... Relax... and Enjoy...
 
-Currently on the market( Microsoft Store )... 
+Currently on the market( Microsoft Store )... GO1972, GO1997
 
 1 - GO1972
   - Match of the Century - World Chess Championship( 1972 ).     
   - Bobby Fischer, USA ( 12½ ) vs Boris Spassky, USSR ( 8½ ). 
   - Fischer's win ended Soviet domination of the World Championship.
+  
+2 - GO1997
+  - The Man versus The Machine!  
+  - Match between world chess champion Garry Kasparov( 2½ ) and IBM supercomputer Deep Blue( 3½ ).
+  - It was the first defeat of a reigning world chess champion by a computer under tournament conditions.
+
 
 EE64 features...
 
