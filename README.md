@@ -11,7 +11,7 @@ Ok...
 Showtime... 
 Sit back... Relax... and Enjoy...
 
-Currently on the market( Microsoft Store )... GO1972, GO1997
+Now on market( Storefront: Microsoft )... GO1972, GO1997
 
 1 - GO1972
   - Match of the Century - World Chess Championship( 1972 ).     
@@ -91,4 +91,4 @@ All logic and moves are in single executable.
 Despite being very functional, EE64 is probably the best-looking and the smallest chess emulator you can find on market( executable ~ 60KB ).
 As the bottom line - it consumes very little computer's resource( CPU ~ 1% ).
 
-P.S. - Any questions email - c2koko2c@outlook.com
+P.S. - Any questions - c2koko2c@outlook.com
