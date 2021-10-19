@@ -19,12 +19,10 @@ EE64 Red Flamingo presents current projects.
 - [ Note. To fully utilize results, familiarity with the model required. ]
 
 
-
 [P.S.] - About EE64 Red Flamingo code practices.
-
-EE64 Red Flamingo creates regular stand alone Windows applications.
-All developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.  
-All algorithms, despite being functional, consume very little computer's resource including size of executable ~ 60KB.
+- EE64 Red Flamingo creates regular stand alone Windows applications.
+- All developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.  
+- All algorithms, despite being functional, consume very little computer's resource including size of executable ~ 60KB.
 
 [ Ok ] [ Showtime ] [ Sit back ] [ Relax and Enjoy ]
 
