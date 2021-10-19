@@ -21,6 +21,7 @@ EE64 Red Flamingo presents current projects.
   [ Note. To fully utilize results, familiarity with the model required. ]
 
 
+
 [P.S.] - About EE64 Red Flamingo code practices.
 
 EE64 Red Flamingo creates regular stand alone Windows applications.
