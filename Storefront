@@ -17,5 +17,7 @@ Microsoft Store:
   - An eight-game chess match between World Chess Champion Vladimir Kramnik and the computer program Deep Fritz 7, held in October 2002. 
   - The match ended in a tie 4 - 4, with two wins for each participant and four draws.
   
-4 - GOFORIT
-  - Option price calculation and management app... Now production test... in store next month...
+4 - GOFORIT is the algorithm.                         
+    GOFORIT is the motor, to manage portfolio of various assets.
+    GOFORIT at it heart has the gear to carry computation of option prices by Black–Scholes model.
+    [ Note. To fully utilize results, familiarity with the model required. ]
