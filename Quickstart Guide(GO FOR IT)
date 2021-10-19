@@ -20,28 +20,28 @@ Quit ( app ) - [ Esc ]
 -Column width can be adjust by mouse.
 
 [ FILE ]
--Open                                 - [ F1 ] 
+-Open                         - [ F1 ] 
 -Save (overwrite, create new) - [ F2 ]
 -Initial folder is defaulted to app current directory.
 
 [ TIPS ]
 -PORTFOLIO::Browsing - [ Page Up::Down ] [ Home::End ] [ Arrow Up::Down::Left::Right ] 
-                                 - Press first letter of target asset to jump to. 
+                     - Press first letter of target asset to jump to. 
 
 -PORTFOLIO::Edit Param Data::Calendar - Auto monitor maturity of assets.
-                                                        - No matter where you are - click [ Today ] at the bottom, to jump to today.
+                                      - No matter where you are - click [ Today ] at the bottom, to jump to today.
 
 -PORTFOLIO::Compute Asset - Auto monitor maturity of assets.
 
--FILE::Open                         - Auto monitor maturity of assets. 
+-FILE::Open - Auto monitor maturity of assets. 
 
 -FILE - Backup software changes FILE property to [ Read-Only ]. In order to save FILE, it must be cleared.
-        - Assets can be preload into FILE.
-          Run app. Add one asset. Save FILE. Quit app.
-          Open FILE in text editor. Use saved asset as a template.
-          Add as many assets as you need. One per line, ending by [ Enter ].
-          Save FILE as plain text file.
-          Run app. Open FILE.
+      - Assets can be preload into FILE.
+        Run app. Add one asset. Save FILE. Quit app.
+        Open FILE in text editor. Use saved asset as a template.
+        Add as many assets as you need. One per line, ending by [ Enter ].
+        Save FILE as plain text file.
+        Run app. Open FILE.
 
 [ PrtScr ] - Take screenshot. Paste( Ctrl + V ) into document. Zoom - Print - Email.
 
