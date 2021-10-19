@@ -9,14 +9,16 @@ EE64 Red Flamingo presents current projects.
 - EE64 is probably the best-looking and the smallest chess emulator you can find on market.    
   All logic and moves are in single executable.
   And just like favorite movie... you can play it again and again.
+  
 
-[2] - GOFORIT is the algorithm.                         
-       GO FOR IT is the motor, to manage portfolio of various assets.
-       GO FOR IT at it heart has the gear to carry computation of option prices by Black–Scholes model.
-       GO FOR IT maintains persistence of portfolio in a form of a local plain text file.
-       GO FOR IT user interface is simple, the same time powerful enough to carry all activities.
-       GO FOR IT design isn't overloaded with complexity, expressive and elegant.
-       [ Note. To fully utilize results, familiarity with the model required. ]
+[ GOFORIT ] 
+- GO FOR IT is the algorithm.                         
+- GO FOR IT is the motor, to manage portfolio of various assets.
+- GO FOR IT at it heart has the gear to carry computation of option prices by Black–Scholes model.
+- GO FOR IT maintains persistence of portfolio in a form of a local plain text file.
+- GO FOR IT user interface is simple, the same time powerful enough to carry all activities.
+- GO FOR IT design isn't overloaded with complexity, expressive and elegant.
+  [ Note. To fully utilize results, familiarity with the model required. ]
 
 
 [P.S.] - About EE64 Red Flamingo code practices.
