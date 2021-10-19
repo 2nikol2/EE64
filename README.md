@@ -1,7 +1,7 @@
 EE64 Red Flamingo presents current projects.
 
 [ EE64 ]
-EE64 is the algorithm.
+- EE64 is the algorithm.
 - EE64 allows to view play of chess in full animation.
 - EE64 wants to entertain you beautiful game, played by masters. 
 - EE64 design and graphic is very expressive, elegant and powerful.
