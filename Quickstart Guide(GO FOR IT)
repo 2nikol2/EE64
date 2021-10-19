@@ -7,11 +7,11 @@ Run  ( app ) - [ Enter ]
 Quit ( app ) - [ Esc ]
 
 [ PORTFOLIO ] 
--Add Asset (select PORTFOLIO) - [ Enter ] ( Start ) - [ Enter ] ( Commit ) - [ Esc ] ( Disregard )
+-Add Asset (select PORTFOLIO)    - [ Enter ] ( Start ) - [ Enter ] ( Commit ) - [ Esc ] ( Disregard )
 -Edit Param Data (select target) - [ Enter ] ( Start ) - [ Enter ] ( Commit ) - [ Esc ] ( Disregard )
--Delete Asset      (select target) - [ Delete ]
--PORTFOLIO vs OUTPUT          - [ Tab ]
--Compute Asset                      - ( select target )
+-Delete Asset    (select target) - [ Delete ]
+-PORTFOLIO vs OUTPUT             - [ Tab ]
+-Compute Asset                   - ( select target )
 
 [ OUTPUT ]
 -Shows computation pertinent to selected asset in PORTFOLIO.
