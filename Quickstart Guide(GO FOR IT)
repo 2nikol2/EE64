@@ -25,6 +25,8 @@ Quit ( app ) - [ Esc ]
 -Initial folder is defaulted to app current directory.
 
 [ TIPS ]
+-OUTPUT::Browsing    - [ Page Up::Down ] [ Home::End ] [ Arrow Up::Down ] 
+
 -PORTFOLIO::Browsing - [ Page Up::Down ] [ Home::End ] [ Arrow Up::Down::Left::Right ] 
                      - Press first letter of target asset to jump to. 
 
