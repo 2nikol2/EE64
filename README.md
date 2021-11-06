@@ -10,11 +10,11 @@ EE64 Red Flamingo presents current projects.
        And just like favorite movie... you can play it again and again.
        
 [ GOFORIT - G9_DIXI_GO ] - is the algorithm.                         
-  GO FOR IT is the motor, to manage portfolio of various assets.
-  GO FOR IT at it heart has the gear to carry computation of option prices by Black–Scholes model.
-  GO FOR IT maintains persistence of portfolio in a form of a local plain text file.
-  GO FOR IT user interface is simple, the same time powerful enough to carry all activities.
-  GO FOR IT design isn't overloaded with complexity, expressive and elegant.
+  GOFORIT is the motor, to manage portfolio of various assets.
+  GOFORIT at it heart has the gear to carry computation of option prices by Black–Scholes model.
+  GOFORIT maintains persistence of portfolio in a form of a local plain text file.
+  GOFORIT user interface is simple, the same time powerful enough to carry all activities.
+  GOFORIT design isn't overloaded with complexity, expressive and elegant.
        [ Note. To fully utilize results, familiarity with the model required. ]
 
 
