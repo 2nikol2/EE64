@@ -38,12 +38,12 @@ Quit ( app ) - [ Esc ]
 -FILE::Open               - Auto monitor maturity of assets. 
 
 -FILE - Backup software changes FILE property to [ Read-Only ]. In order to save FILE, it must be cleared.
-        - Assets can be preload into FILE.
-          Run app. Add one asset. Save FILE. Quit app.
-          Open FILE in text editor. Use saved asset as a template.
-          Add as many assets as you need. One per line, ending by [ Enter ].
-          Save FILE as plain text file.
-          Run app. Open FILE.
+      - Assets can be preload into FILE.
+        Run app. Add one asset. Save FILE. Quit app.
+        Open FILE in text editor. Use saved asset as a template.
+        Add as many assets as you need. One per line, ending by [ Enter ].
+        Save FILE as plain text file.
+        Run app. Open FILE.
 
 [ PrtScr ] - Take screenshot. Paste( Ctrl + V ) into document. Zoom - Print - Email.
 
