@@ -15,7 +15,7 @@
        EE64 probably the best-looking, well-done, stand-alone chess animator you can find on market.
        EE64 is just like favorite movie - you want to see it again and again.
        [ Note. App is keyboard oriented. ]
-
+       
 
 [2] - GOFORIT is the algorithm.                
        GOFORIT is the motor, to manage portfolio of various assets.
