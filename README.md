@@ -18,7 +18,8 @@
        [ Note. App is keyboard oriented. ]
 	   
 
-[2] - GOFORIT is the algorithm.                
+[2] - GOFORIT is the algorithm.     
+
        GOFORIT is the motor, to manage portfolio of various assets.
        GOFORIT at it heart has the gear to carry computation of option prices by Black–Scholes model.
        GOFORIT maintains persistence of portfolio in a form of a local plain text file.
