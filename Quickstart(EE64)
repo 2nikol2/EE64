@@ -1,53 +1,31 @@
-EE64 - Quickstart Guide! 
+[ EE64 - Quickstart Guide ]
+[ Note. App is keyboard oriented. ]
 
-EE64 features...
 
-1 - Autoplay - start and play the whole match, move by move, automatically.
-  - Enter - go to game...
-  - Enter - start it...
+[ FEATURES ] 
 
-2 - Choose specific game to play. 
-  - Page Up, Down - pick game...
-  - Enter - commit...
-  - Esc - disregard...
+Run ( app ) - [ Enter ]
+Quit ( app ) - [ Esc ]
 
-3 - Go to game End or Start.
-  - End...
-  - Home...
+[ WELCOME SCREEN ] 
+-Next Match  - [ Spacebar ] 
+-Start Match  - [ Enter ]
 
-4 - Stop - Start ( pause and resume ) game. 
-  - Enter...
-  - Enter...
+[ GAME SCREEN ] 
+-Toggle mode ( Start - Stop )              - [ Enter ] 
+-Next Game                   ( stop mode ) - [ Spacebar ]
+-WELCOME SCREEN              ( stop mode ) - [ Backspace ]
+-AutoPlay forward            ( stop mode ) - [ Enter ] 
+-Fast forward                ( stop mode ) - [ Arrow Right ]
+-Rewind                      ( stop mode ) - [ Arrow Left ]
+-One move ( forward )        ( stop mode ) - [ Arrow Up ]  
+-One move ( backward )       ( stop mode ) - [ Arrow Down ]
 
-Next two features require game be in STOP ( pause ) mode ( see #4 ).
+[ TIPS ]
+-Game ( Start - FIN ) - we auto in ( Stop mode ) i.e. all [ GAME SCREEN ] features - could be utilized. 
+-Each  ( One move )   - we auto in ( Stop mode ) i.e. all [ GAME SCREEN ] features - could be utilized.
+-Use - [ PrtScr ] - to take screenshot. Paste ( Ctrl + V ) into document. Zoom - Print - Email.
 
-5 - Play one move forward. 
-  - Arrow Up...  
 
-6 - Jump to random move.
-  - Arrow Left, Right - to open pick screen...
-  - Arrow Left, Right - pick move...
-  - Enter - commit...
-  - Esc - disregard...
-
-You still in STOP ( pause ) mode.
-Can utilize #5, #6 in loop. 
-To go back to START( resume full animation ) - push Enter( see #4 ).
-                 
-P.S. - Keys summary(no mouse).
-
-Enter - start game
-      - ( already in game ) - switch mode ( STOP - START )          
-      - ( at welcome screen ) - go to first game
-      - ( at FIN or G2 screen ) - go to next game ( G2 screen - only in GO1972 )
-      - commit any changes ( see... #2, #6 )
- 
-Esc - Quit app
-    - disregard any changes ( see... #2, #6 )
-
-Home ( End ) - see... #3  
-Page Up ( Down ) -  see... #2
-Arrow Left ( Right )  -  see... #6
-Arrow Up    -  see... #5
-
-Any questions - [ c2koko2c@outlook.com ]
+[ Help Desk ] - c2koko2c@outlook.com
+[ OK - Showtime - Sit back, relax and Enjoy ]
