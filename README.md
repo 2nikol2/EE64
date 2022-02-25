@@ -31,6 +31,7 @@
 
 [P.S.] - About Red Flamingo Production code practices.
 
+
 Red Flamingo Production creates regular, well-done, stand-alone Windows applications.
 All developed in C++ with supreme algorithm design, very professional choice of all data structures and API... etc.  
 All algorithms, despite being practical, with plenty of interesting features, consume very little computer's resource.
