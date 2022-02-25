@@ -1,9 +1,9 @@
 [ Red Flamingo Production output for 2022 ]
 
 
-[1] - EE64 is the algorithm. 
-       EE64 is the chess animator.  
-       EE64 at it heart has the database of memorable chess matches.
+[1] - EE64 is the algorithm.
+      EE64 is the chess animator.  
+      EE64 at it heart has the database of memorable chess matches.
        EE64 allows animate and retrospectively analyze games that have already been played.
        EE64 wants to entertain you beautiful game, played by masters.
        EE64 has various modes of animation to be utilized... 
