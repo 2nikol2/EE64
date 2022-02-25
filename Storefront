@@ -1,26 +1,28 @@
-Storefront of EE64 Red Flamingo.
+[ Red Flamingo Production output for 2022 ]
 
-[ Microsoft Store ]
+[ Microsoft Store ] 
 
-[ EE64 ] - GO1972 
-- Match of the Century - World Chess Championship( 1972 ).     
-- Bobby Fischer, USA ( 12½ ) vs Boris Spassky, USSR ( 8½ ). 
-- Fischer's win ended Soviet domination of the World Championship.
-  
-[ EE64 ] - GO1997 
-- The Man versus The Machine!  
-- Match between world chess champion Garry Kasparov( 2½ ) and IBM supercomputer Deep Blue( 3½ ).
-- It was the first defeat of a reigning world chess champion by a computer under tournament conditions.
+[ EE64 ] - 1 - GoEE64 - TRY promotion.                                                                           
+               GoEE64 presents two ( preloaded ) chess matches, as samples, to test and appreciate all general features of EE64 algorithm.
+               1997 - match between World Chess Champion Garry Kasparov( 2½ ) vs. IBM supercomputer Deep Blue( 3½ ).
+               2002 - match between World Chess Champion Vladimir Kramnik( 4 ) vs. the computer program Deep Fritz( 4 ). 
+           
+         - 2 - GoEE64Go - BUY - ( currently in production testing ).
+               GoEE64Go presents five ( preloaded ) World Chess Championship. 
+               1921 - World Chess Championship - José Raúl Capablanca( 9 ) vs. Emanuel Lasker( 5 ).  
+               1972 - World Chess Championship - Bobby Fischer( 12½ ) vs. Boris Spassky( 8½ ).
+               1981 - World Chess Championship - Anatoly Karpov( 11 ) vs. Viktor Korchnoi( 7 ).
+               2008 - World Chess Championship - Viswanathan Anand( 6½ ) vs. Vladimir Kramnik( 4½ ).
+               2021 - World Chess Champions - Nepomniachtchi( 3½ ) vs. Carlsen( 7½ ).
 
-[ EE64 ] - GO2002
-- Brains in Bahrain! 
-- An eight-game chess match between World Chess Champion Vladimir Kramnik and the computer program Deep Fritz 7, held in October 2002. 
-- The match ended in a tie 4 - 4, with two wins for each participant and four draws.
+         - 3 - GoEE64Pro - BUY - ( currently in production testing ).
+               GoEE64Pro - professional - will have ability, at will, upload games from plain text file.
+               File will keep games as plain text in Portable Game Notation (PGN) format.
+               One could put, any number of games into file, no specific restriction, except set by Operating System on file size.
   
-[ GOFORIT - G9_DIXI_GO ] - free TRY and BUY version
-- GO FOR IT is the motor, to manage portfolio of various assets.
-- GO FOR IT at it heart has the gear to carry computation of option prices by Black–Scholes model.
-  [ Note. To fully utilize results, familiarity with the model required. ]
-  
-  
-  Any questions - [ c2koko2c@outlook.com ]
+[ GOFORIT ] - 1 - GOFORIT - TRY - ( no read from file )
+            - 2 - G9_DIXI_GO - BUY
+
+
+[ Help Desk ] - c2koko2c@outlook.com
+[ OK - Showtime - Sit back, relax and Enjoy ]
