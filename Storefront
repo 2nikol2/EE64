@@ -4,16 +4,16 @@
 
 [ EE64 ] - 1 - GoEE64 - TRY promotion.                                                                           
                GoEE64 presents two ( preloaded ) chess matches, as samples, to test and appreciate all general features of EE64 algorithm.
-               1997 - match between World Chess Champion Garry Kasparov( 2½ ) vs. IBM supercomputer Deep Blue( 3½ ).
-               2002 - match between World Chess Champion Vladimir Kramnik( 4 ) vs. the computer program Deep Fritz( 4 ). 
+               1997 - World Chess Champion Garry Kasparov( 2½ ) vs. IBM supercomputer Deep Blue( 3½ ).
+               2002 - World Chess Champion Vladimir Kramnik( 4 ) vs. the computer program Deep Fritz( 4 ). 
            
          - 2 - GoEE64Go - BUY - ( currently in production testing ).
-               GoEE64Go presents five ( preloaded ) World Chess Championship. 
-               1921 - World Chess Championship - José Raúl Capablanca( 9 ) vs. Emanuel Lasker( 5 ).  
-               1972 - World Chess Championship - Bobby Fischer( 12½ ) vs. Boris Spassky( 8½ ).
-               1981 - World Chess Championship - Anatoly Karpov( 11 ) vs. Viktor Korchnoi( 7 ).
-               2008 - World Chess Championship - Viswanathan Anand( 6½ ) vs. Vladimir Kramnik( 4½ ).
-               2021 - World Chess Championship - Nepomniachtchi( 3½ ) vs. Carlsen( 7½ ).
+               GoEE64Go presents five ( preloaded ) World Chess Championships. 
+               1921 - José Raúl Capablanca( 9 ) vs. Emanuel Lasker( 5 ).  
+               1972 - Bobby Fischer( 12½ ) vs. Boris Spassky( 8½ ).
+               1981 - Anatoly Karpov( 11 ) vs. Viktor Korchnoi( 7 ).
+               2008 - Viswanathan Anand( 6½ ) vs. Vladimir Kramnik( 4½ ).
+               2021 - Nepomniachtchi( 3½ ) vs. Carlsen( 7½ ).
 
          - 3 - GoEE64Pro - BUY - ( currently in production testing ).
                GoEE64Pro - professional - will have ability, at will, upload games from plain text file.
