@@ -16,9 +16,19 @@
        EE64 probably the best-looking, well-done, stand-alone chess animator you can find on market.
        EE64 is just like favorite movie - you want to see it again and again.
        [ Note. App is keyboard oriented. ]
+       
+       
+[2] - EE64Live is the algorithm. 
+       
+       EE64Live is the chess app - man vs. machine. 
+       EE64Live at it heart has the engine that analyzes chess variant positions, and generates a move that it regards as strongest.
+       EE64Live utilize different strategie than humans to choose moves. 
+       EE64Live is a good player and can play at the level of a chess master.
+
+       [ Note. All members of EE64's algorithms family provide similar user interface, to feel at home, in each one of them. ]
 	   
 
-[2] - GOFORIT is the algorithm.     
+[3] - GOFORIT is the algorithm.     
 
        GOFORIT is the motor, to manage portfolio of various assets.
        GOFORIT at it heart has the gear to carry computation of option prices by Black–Scholes model.
