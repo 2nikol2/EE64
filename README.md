@@ -3,6 +3,11 @@
 [1] - GoEE64Go is the algorithm.
           GoEE64Go is the chess animator.
           GoEE64Go at heart has logic to analyze, entertain and train.
+          GoEE64Go - design and graphic very expressive, elegant and powerful.
+          GoEE64Go - probably the best-looking, well-done, stand-alone animator you can find on market.
+          GoEE64Go - just like favorite movie - you want to see it again and again.
+
+          [ Note - App is keyboard oriented ]
 
 [2] - GoGreenGo is the algorithm.                
           GoGreenGo is the engine, to manage portfolio of various assets.
@@ -29,10 +34,13 @@
           [                i.e. - the best approach - use app as a Playground (Sandbox) - sharpen your brain - be better trader in real world ]
 
 [ P.S. ]
-
 Red Flamingo creates regular, well - done, very small in size and totally stand - alone Windows applications.
 All done in C++ with supreme algorithm design, very professional choice of data structures and API... etc.  
 Algorithms, despite being practical, with plenty of interesting features - [ GREEN ] - consume very little computer resource.
+
+[ Aid - c2coco2c@outlook.com ]
+[ Showtime - Sit back, relax and Enjoy ]
+[ Best of Luck ]
 
 [ Aid - c2coco2c@outlook.com ]
 [ Showtime - Sit back, relax and Enjoy ]
