@@ -41,10 +41,3 @@ Algorithms, despite being practical, with plenty of interesting features - [ GRE
 [ Aid - c2coco2c@outlook.com ]
 [ Showtime - Sit back, relax and Enjoy ]
 [ Best of Luck ]
-
-[ Aid - c2coco2c@outlook.com ]
-[ Showtime - Sit back, relax and Enjoy ]
-[ And - Best of Luck ]
-
-
-
