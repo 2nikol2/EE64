@@ -1,0 +1,62 @@
+GoForeX is the algorithm.  
+GoForeX is the engine to manage the process of buying - selling currency pair (USD/EUR) ... (EUR/GBP).
+GoForeX at heart has the gear to manage huge amounts of data flown through.
+GoForeX is greedy in a sense of trying to reach absolute max profit by numerous (permutation - iteration) as data mining.
+GoForeX is also good at analyzing, entertaining and training.
+GoForeX user interface is simple, the same time powerful enough to carry all activities.
+GoForeX design is expressive and elegant.
+
+[ Note - App is keyboard oriented, mouse as a proxy ]
+[ Note - To fully utilize results, some familiarity with FX Market required ]
+[ Note - App uses FXRates publicly available on Web ]
+[                Latency of data depends on what delay each provider sets (~ 10 min )]
+[                i.e. - the best approach - use app as a Playground (Sandbox) - sharpen your brain - be better trader in real world ]
+
+[ Features ]
+
+Run( app )  - [ Enter ]
+Quit( app ) - [ Esc ] 
+
+Menu - QUIT - [ Esc ]
+              - AID    - [ F1 ]
+              - REFUEL - [ Enter ]
+
+( Playground - Sandbox ) - Folio - World Currency ( 8 actively traded )
+                                                        - FXRate - Rates ( now used in compute )
+                                                        - PathHunter ( Stepwise ) - ( Outcomes )
+                                                        - Steps                                          - ( Outcomes )
+                                                        - Mining Lot ( Out )                - ( Outcomes )
+
+[ FXRate - Magic ] - update Rates - [ Enter ]
+                                        - REFUEL ( mouse )
+
+[ Folio - Magic ] - ( browse )
+                                   - Compute - ( Target Currency )
+                                   - Synch - ( Target Currency ) vs. ( Outcomes )
+   
+[ Outcomes - Magic ] - PathHunter - (In) - (1 unit) - (Out) - Max profit
+                                               - Steps - Rates ( Stepwise )
+                                               - Mining Lot ( Out ) - Max profit ( Target Currency )
+                                                                                         - ( % ) - Gain surplus
+                                                                                         - ( % Gain ) - Delta ( Now vs. Was )
+
+( TIPs ) - [ Folio - browse ] - [ Page Up::Down ] [ Home::End ] [ Arrow Up::Down::Left::Right ]
+                                                         - Type ( 1st ) Letter - ( Target Currency )
+                                                         - Select ( pick ) - ( Target Currency ) ( mouse )
+
+                   [ REFUEL ] - (dynamics) - Toggle - ( Standard vs. WAIT ) cursor
+                                                                        - Toggle - ( OFF - ON ) menu
+                                                                        - Green(Up) vs. Red(Down) vs. NO( change )
+                                                                        - NO( change ) - We try to fetch data in between updates on Web
+                                                                                                        - Also - on weekends or as of markets off hours
+
+                   [ PrtScr ] - Paste into doc - Zoom - Print - Email
+ 
+[ P.S. ]
+Red Flamingo creates regular, well - done, very small in size and totally stand - alone Windows applications.
+All done in C++ with supreme algorithm design, very professional choice of data structures and API... etc.  
+Algorithms, despite being practical, with plenty of interesting features - [ GREEN ] - consume very little computer resource.
+
+[ Aid - c2coco2c@outlook.com ]
+[ Showtime - Sit back, relax and Enjoy ]
+[ Best of Luck ]
