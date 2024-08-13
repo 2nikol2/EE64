@@ -1,0 +1,43 @@
+GoEE64Go is the algorithm - chess animator.
+GoEE64Go at heart has logic to analyze, entertain and train.
+GoEE64Go - design and graphic very expressive, elegant and powerful.
+GoEE64Go - probably the best-looking, well-done, stand-alone animator you can find on market.
+
+[ Prerequisite - First Things First ] [ Download Portable Game Notation (PGN) files from Web on your machine ] 
+                                                                           [ Consult Wikipedia - About PGN standard ]
+
+[ Features ] [ Note - App is keyboard oriented ]
+
+Run( app ) - [ Enter ]
+Quit( app ) - [ Esc ] 
+
+[ Screen ] - WELCOME ( ref - Screenshot #1 #2) - [ Quit  - Esc ] 
+                                                                                                     [ AID  - F1 ] ( ref - Screenshot #3 ) 
+                                                                                                     [ Refuel Gs  - F2 ] - Popup dialog box to browse PGN files on your machine
+                                                                                                                                           - Select and Open one PGN file ( Pre-Load Gs into App )
+                                                                                                                                           - No restriction on PGN file size
+                                                                                                                                           - Gxxx  - reflects number available Gs... 
+                                                                                                     [ FIN  - End ] 
+                                                                                                     [ Showtime  - Enter ]
+
+[ Screen ] - PLAYGROUND - [ AID  - F1 ]- on WELCOME ( ref - Screenshot #4 #5 #6 )
+[ Screen ] - FIN ( ref - Screenshot #7 )
+ 
+[ TIPs ] -  While playing - Friendly reminder - two types of [ Warnings ] can be encountered
+                - [ Warning 1 ] - No { Gs } to launch ?! 
+                                                - [ Fix ] - [ Refuel Gs  - F2 ] - on WELCOME screen 
+                - [ Warning 2 ] - Algorithm noticed probable PGN violation ( i.e. - game / file wasn't compose by PGN standard )
+                                                - [ Fix ] - [ Delete ] - game - and - continue with the rest
+                                                - In case - [ Warning 2 ] - persistent ( i.e. - many - all games in ( *.PGN )  file - corrupt )
+                                                   Usually, this kind of error related to - ( copy - paste ) from pre - standard source - to compose new ( *.PGN ) file
+                                                - [ Fix ] - is very simple... disregard current and open new ( *.PGN ) file
+                                                   Gramophones can't be blamed for bad sound if the record is scratched...
+
+[ P.S. ]
+Red Flamingo creates regular, well - done, very small in size and totally stand - alone Windows applications.
+All done in C++ with supreme algorithm design, very professional choice of data structures and API... etc.  
+Algorithms, despite being practical, with plenty of interesting features - [ GREEN ] - consume very little computer resource.
+
+[ Aid - c2coco2c@outlook.com ]
+[ Showtime - Sit back, relax and Enjoy ]
+[ Best of Luck ]
