@@ -1,0 +1,46 @@
+GoGreenGo is the algorithm.                
+GoGreenGo is the engine, to manage portfolio of various assets.
+GoGreenGo at it heart has the gear to carry computation of option prices by Black–Scholes model.
+GoGreenGo maintains persistence of portfolio in a form of a local plain text file.
+GoGreenGo user interface is simple, the same time powerful enough to carry all activities.
+GoGreenGo design isn't overloaded with complexity, expressive and elegant.
+
+[ Note - To fully utilize results, familiarity with the Black-Scholes model required ]
+[ Note - App is keyboard oriented, mouse as a proxy ] 
+
+[ Features ] 
+
+Run (app)  - [ Enter ]
+Quit (app) - [ Esc ]
+
+Menu - File - Aid ( self - sufficient )
+Pane - FOLIO ( repository ) - Assets ( 6 predefined params )
+             - OUTPUT ( calculate result )
+
+[ FOLIO - Magic ] - Add Asset ( select FOLIO ) - [ Enter ]( Start ) - [ Enter ]( Commit ) - [ Esc ]( Disregard )
+                  - Alter Param data ( pick target ) - [ Enter ]( Start ) - [ Enter ]( Commit ) - [ Esc ]( Disregard )
+                  - Delete Asset ( pick target ) - [ Delete ]
+                  - Calculate Asset ( 20 ROWs - Delta 0.1% (+/-) BASIC params values ) - ( pick target ) - [ Enter ]
+
+[ OUTPUT - Magic ] - ReCalculate Asset - (all Tabs) - (pick target Row on active Tab) - [ Enter ]
+                   - Delta 0.1% (+/-) BASIC value in target Row
+
+[ Browsing FOLIO - OUTPUT ] - [ Page Up::Down ] [ Home::End ] [ Arrow Up::Down::Left::Right ]
+        [ FOLIO vs OUTPUT ] - Toggle keyboard focus - [ Tab ]
+                  [ FOLIO ] - Collapse / Expand ( any parent ) - [ Arrow Left::Right ]
+               [ CALENDAR ] - Press [ Today ] at the bottom - to jump to 
+
+[ TIPs ] - Panes - could be adjusted by "split slider" - mouse
+         - Columns headers - also - could be adjusted - mouse
+         - App - ( Auto ) - monitor maturity of Asset - on every Calculation
+         - Backup software makes file property [ Read - Only ] - In order to save file - it must be cleared
+         - Take screenshot - [ PrtScr ] - Paste into document - Zoom - Print - Email
+
+[ P.S. ]
+Red Flamingo creates regular, well - done, very small in size and totally stand - alone Windows applications.
+All done in C++ with supreme algorithm design, very professional choice of data structures and API... etc.  
+Algorithms, despite being practical, with plenty of interesting features - [ GREEN ] - consume very little computer resource.
+
+[ Aid - c2coco2c@outlook.com ]
+[ Showtime - Sit back, relax and Enjoy ]
+[ Best of Luck ]
