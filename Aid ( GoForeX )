@@ -10,7 +10,8 @@ GoForeX design is expressive and elegant.
 [ Note - To fully utilize results, some familiarity with FX Market required ]
 [ Note - App uses FXRates publicly available on Web ]
 [                Latency of data depends on what delay each provider sets (~ 10 min )]
-[                i.e. - the best approach - use app as a Playground (Sandbox) - sharpen your brain - be better trader in real world ]
+[                i.e. - the best approach - use app as a Playground (Sandbox) - sharpen your brain - be better trader
+                 in real world ]
 
 [ Features ]
 
@@ -22,38 +23,38 @@ Menu - QUIT - [ Esc ]
               - REFUEL - [ Enter ]
 
 ( Playground - Sandbox ) - Folio - World Currency ( 8 actively traded )
-                                                        - FXRate - Rates ( now used in compute )
-                                                        - PathHunter ( Stepwise ) - ( Outcomes )
-                                                        - Steps                                          - ( Outcomes )
-                                                        - Mining Lot ( Out )                - ( Outcomes )
+                         - FXRate - Rates ( now used in compute )
+                         - PathHunter ( Stepwise ) - ( Outcomes )
+                         - Steps                   - ( Outcomes )
+                         - Mining Lot ( Out )      - ( Outcomes )
 
 [ FXRate - Magic ] - update Rates - [ Enter ]
-                                        - REFUEL ( mouse )
+                   - REFUEL ( mouse )
 
 [ Folio - Magic ] - ( browse )
-                                   - Compute - ( Target Currency )
-                                   - Synch - ( Target Currency ) vs. ( Outcomes )
+                  - Compute - ( Target Currency )
+                  - Synch - ( Target Currency ) vs. ( Outcomes )
    
 [ Outcomes - Magic ] - PathHunter - (In) - (1 unit) - (Out) - Max profit
-                                               - Steps - Rates ( Stepwise )
-                                               - Mining Lot ( Out ) - Max profit ( Target Currency )
-                                                                                         - ( % ) - Gain surplus
-                                                                                         - ( % Gain ) - Delta ( Now vs. Was )
+                     - Steps - Rates ( Stepwise )
+                     - Mining Lot ( Out ) - Max profit ( Target Currency )
+                                          - ( % ) - Gain surplus
+                                          - ( % Gain ) - Delta ( Now vs. Was )
 
 ( TIPs ) - [ Folio - browse ] - [ Page Up::Down ] [ Home::End ] [ Arrow Up::Down::Left::Right ]
                                                          - Type ( 1st ) Letter - ( Target Currency )
                                                          - Select ( pick ) - ( Target Currency ) ( mouse )
 
                    [ REFUEL ] - (dynamics) - Toggle - ( Standard vs. WAIT ) cursor
-                                                                        - Toggle - ( OFF - ON ) menu
-                                                                        - Green(Up) vs. Red(Down) vs. NO( change )
-                                                                        - NO( change ) - We try to fetch data in between updates on Web
-                                                                                                        - Also - on weekends or as of markets off hours
+                                           - Toggle - ( OFF - ON ) menu
+                                           - Green(Up) vs. Red(Down) vs. NO( change )
+                                           - NO( change ) - We try to fetch data in between updates on Web
+                                           - Also - on weekends or as of markets off hours
 
                    [ PrtScr ] - Paste into doc - Zoom - Print - Email
- 
+
 EE64 - creates regular, well - done, very small and totally stand - alone Windows apps
-        - with supreme algorithm design, professional choice of data structures and system API... etc  
+     - with supreme algorithm design, professional choice of data structures and system API... etc  
 EE64 - also - as a subcontractor - does new developments, bug find / fix, porting legacy C/C++ code
 
 [ Aid - c2coco2c@outlook.com ]
