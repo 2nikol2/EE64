@@ -36,10 +36,9 @@ Pane - FOLIO ( repository ) - Assets ( 6 predefined params )
          - Backup software makes file property [ Read - Only ] - In order to save file - it must be cleared
          - Take screenshot - [ PrtScr ] - Paste into document - Zoom - Print - Email
 
-[ P.S. ]
-Red Flamingo creates regular, well - done, very small in size and totally stand - alone Windows applications.
-All done in C++ with supreme algorithm design, very professional choice of data structures and API... etc.  
-Algorithms, despite being practical, with plenty of interesting features - [ GREEN ] - consume very little computer resource.
+EE64 - creates regular, well - done, very small and totally stand - alone Windows apps
+     - with supreme algorithm design, professional choice of data structures and system API... etc  
+EE64 - also - as a subcontractor - does new developments, bug find / fix, porting legacy C/C++ code
 
 [ Aid - c2coco2c@outlook.com ]
 [ Showtime - Sit back, relax and Enjoy ]
