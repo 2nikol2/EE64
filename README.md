@@ -34,7 +34,7 @@
 
 
 EE64 - creates regular, well - done, very small and totally stand - alone Windows apps
-        - with supreme algorithm design, professional choice of data structures and system API... etc  
+     - with supreme algorithm design, professional choice of data structures and system API... etc  
 EE64 - also - as a subcontractor - does new developments, bug find / fix, porting legacy C/C++ code
 
 [ Aid - c2coco2c@outlook.com ]
