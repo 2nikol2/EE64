@@ -18,20 +18,17 @@
           [ Note - To fully utilize results, familiarity with the Black-Scholes model required ]
           [ Note - App is keyboard oriented, mouse as a proxy ] 
 
-[3] - GoForeX is the algorithm.  
-       GoForeX is the engine to manage the process of buying - selling currency pair (USD/EUR) ... (EUR/GBP).
-       GoForeX at heart has the gear to manage huge amounts of data flown through.
-       GoForeX is greedy in a sense of trying to reach absolute max profit by numerous (permutation - iteration) as data mining.
-       GoForeX is also good at analyzing, entertaining and training.
-       GoForeX user interface is simple, the same time powerful enough to carry all activities.
-       GoForeX design is expressive and elegant.
+[3] - GoForeX is the algorithm to manage the process of (buy / sell) currency pair (USD/EUR) ... (EUR/GBP).
+      GoForeX at heart has the gear to manage huge amounts of data flown through.
+      GoForeX is greedy in a sense of trying to find absolute max profit.
+      GoForeX is also good at analyzing, entertaining and training.
+      GoForeX has expressive and elegant GUI.
 
-          [ Note - App is keyboard oriented, mouse as a proxy ]
-          [ Note - To fully utilize results, some familiarity with FX Market required ]
-          [ Note - App uses FXRates publicly available on Web ]
-          [                Latency of data depends on what delay each provider sets (~ 10 min )]
-          [                i.e. - the best approach - use app as a Playground (Sandbox) - sharpen your brain - be better trader in real world ]
-
+      [ Note - App is keyboard oriented, mouse as a proxy ]
+      [ Note - To utilize results, basic knowledge of FXMarket required ]
+      [ Note - App operate only with publicly available FXRates ]
+      [            i.e. we have latency on data (~ 10 min)]
+      [            therefore - use app as a Sandbox - play and sharp your brain ]
 
 EE64 - creates regular, well - done, very small and totally stand - alone Windows apps
      - with supreme algorithm design, professional choice of data structures and system API... etc  
