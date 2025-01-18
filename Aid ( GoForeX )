@@ -7,42 +7,43 @@ GoForeX has expressive and elegant GUI.
 [ Note - App is keyboard oriented, mouse as a proxy ]
 [ Note - To utilize results, basic knowledge of FXMarket required ]
 [ Note - App operate only with publicly available FXRates ]
-[        i.e. we have latency on data (~ 10 min)]
-[        therefore - use app as a Sandbox - play and sharp your brain ]
+[            i.e. we have latency on data (~ 10 min)]
+[            therefore - use app as a Sandbox - play and sharp your brain ]
 
 [ Features ]
 
 Menu - QUIT - [ Esc ]
-     - AID  - [ F1 ]
-     - ReLoad FXRate - [ Enter ]
+          - AID   - [ F1 ]
+          - REFUEL - [ Enter ]
 
-( Folio ) - World Currency ( active trade )
-          - FXRate - ( compute )
-          - PathFinder ( Stepwise ) - ( Outcome )
-          - Steps                   - ( Outcome )
-          - DataMining              - ( Outcome )
+( Folio )          - World Currency ( active trade )
+( PathFinder ) - ( Stepwise ) - ( Outcome )             
+( FXRates )     - ( Compute )
+( Steps )                              - ( Outcome )
+( DataMining)                     - ( Outcome )
 
 [ Folio - Magic ] - ( browse ) - Compute - ( Target Currency )
-                               - Synch - ( Target Currency ) vs. ( Outcome )
+                                            - Synch - ( Target Currency ) vs. ( Outcome )
 
-[ Outcome - Magic ] - PathFinder - (In) - (1 unit) - (Out) - ( Max profit )
-                    - Steps - FXRate ( Stepwise )
-                    - DataMining - Max profit ( Target Currency )
-                                 - ( % ) - Profit
-                                 - ( % Profit ) - Delta ( Now vs. Was )
+[ Outcome - Magic ] - PathFinder - ( In -1 unit ) - ( Out - Max profit )
+                                - Steps - FXRate ( Stepwise )
+                                - DataMining - Max profit (Target Currency) - (%) - (% Now vs. Was)
 
 ( TIPs ) - [ Folio - browse ] - [ Up::Down ] [ Home::End ] [ Arrow Up::Down::Left::Right ]
-                              - Type ( 1st ) Letter - ( Target Currency )
-                              - Pick                - ( Target Currency ) ( Mouse )
+                                         - Type ( 1st ) Letter - ( Target Currency )
+                                         - Pick                      - ( Target Currency ) ( Mouse )
 
-               [ ReLoad FXRate ] - (dynamics) - Toggle - ( Standard vs. WAIT ) cursor
-                                              - Toggle - ( OFF - ON ) menu
-                                              - Green(Up) vs. Red(Down) vs. NO( change )
-                                              - NO( change ) - We try to fetch data in between updates on Web
-                                              - Also - on weekends or as of markets off hours
+               [ REFUEL ] - (dynamics) - Toggle 
+                                                    - ( Standard vs. WAIT ) cursor
+                                                    - ( OFF - ON ) menu
+                                                    - Green(Up) vs. Red(Down) vs. NO( change )
+                                                    - NO( change ) - We try to fetch data 
+                                                      in between updates on Web
+                                                    - Also - on weekends or as of markets off 
+                                                       hours
 
 EE64 - creates regular, well - done, very small and totally stand - alone Windows apps
-     - with supreme algorithm design, professional choice of data structures and system API... etc  
+        - with supreme algorithm design, professional choice of data structures and system API... etc  
 EE64 - also - as a subcontractor - does new developments, bug find / fix, porting legacy C/C++ code
 
 [ Aid - c2coco2c@outlook.com ]
