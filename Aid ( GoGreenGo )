@@ -1,45 +1,71 @@
-GoGreenGo is the algorithm.                
-GoGreenGo is the engine, to manage portfolio of various assets.
-GoGreenGo at it heart has the gear to carry computation of option prices by Black–Scholes model.
-GoGreenGo maintains persistence of portfolio in a form of a local plain text file.
-GoGreenGo user interface is simple, the same time powerful enough to carry all activities.
-GoGreenGo design isn't overloaded with complexity, expressive and elegant.
+OptionPricer is the algorithm - to compute of option prices by Black–Scholes model.                
+OptionPricer at heart has the engine, to manage portfolio of various assets.
+OptionPricer maintains persistence of portfolio in the form of an encrypted local text file.
+OptionPricer user interface is simple, but powerful enough to carry all activities.
 
-[ Note - To fully utilize results, familiarity with the Black-Scholes model required ]
+[ Note - To utilize results, basic knowledge of Option (finance) & Black– 
+              Scholes required ]
 [ Note - App is keyboard oriented, mouse as a proxy ] 
 
-[ Features ] 
+[ Features ] - [ Quit  - Esc ] - ( Anywhere & Anytime )
 
-Run (app)  - [ Enter ]
-Quit (app) - [ Esc ]
+Menu - File ( self - sufficient ) - Aid [ Ctrl + A ]
 
-Menu - File - Aid ( self - sufficient )
-Pane - FOLIO ( repository ) - Assets ( 6 predefined params )
-             - OUTPUT ( calculate result )
+Pane - ( Folio ) - Assets ( 6 params )
+         - ( Outcome ) - Target Asset ( TABs - Price - Strike - Rate(%) - 
+                                                         Volatility(%) )
+ 
+[ Folio - Magic ] - Add Asset ( select Folio - head )
+                          - [ Enter ]( Start ) 
+                          - [ Enter ]( Commit ) 
+                          - [ Esc ]( Disregard )
+                         
+                          - Alter params value ( pick target )
+                          - [ Enter ]( Start )
+                          - [ Enter ]( Commit ) 
+                          - [ Esc ]( Disregard )
+                         
+                          - Compute Asset ( pick target )
+                          - ( Delta 0.1% (+/-) BASIC params values )
+                          - [ Enter ]
+                         
+                          - Delete Asset ( pick target )
+                          - [ Delete ]
+ 
+[ Outcome - Magic ] - Re-Compute Asset ( all TABs ) 
+                                 - ( pick target Row on active TAB ) 
+                                 - Delta 0.1% (+/-) BASIC value on active TAB target Row  
+                                 - [ Enter ]
+  
+( TIPs ) - [ Browse - Folio ] - [ Up::Down ] [ Home::End ] [ Arrow Up::Down]
+                                          - Type ( 1st ) Letter - ( Target Asset )
+                                          - Collapse / Expand - [ Arrow Left::Right ]
 
-[ FOLIO - Magic ] - Add Asset ( select FOLIO ) - [ Enter ]( Start ) - [ Enter ]( Commit ) - [ Esc ]( Disregard )
-                  - Alter Param data ( pick target ) - [ Enter ]( Start ) - [ Enter ]( Commit ) - [ Esc ]( Disregard )
-                  - Delete Asset ( pick target ) - [ Delete ]
-                  - Calculate Asset ( 20 ROWs - Delta 0.1% (+/-) BASIC params values ) - ( pick target ) - [ Enter ]
-
-[ OUTPUT - Magic ] - ReCalculate Asset - (all Tabs) - (pick target Row on active Tab) - [ Enter ]
-                   - Delta 0.1% (+/-) BASIC value in target Row
-
-[ Browsing FOLIO - OUTPUT ] - [ Page Up::Down ] [ Home::End ] [ Arrow Up::Down::Left::Right ]
-        [ FOLIO vs OUTPUT ] - Toggle keyboard focus - [ Tab ]
-                  [ FOLIO ] - Collapse / Expand ( any parent ) - [ Arrow Left::Right ]
-               [ CALENDAR ] - Press [ Today ] at the bottom - to jump to 
+             [ Browse - Outcome ] - [ Up::Down ] [ Home::End ] Arrow Up::Down ]
+                                                 - switch TAB - [ Arrow Left::Right 
+  
+              [ Folio vs Outcome ] ( Toggle - keyboard focus ) - [ Tab ] 
+             
+               [ Calendar - Browse ] ( Time param ) - [ Up::Down ] [ Home::End ] 
+                                                                         - [ Arrow Up::Down::Left::Right ]
+                                               - Press [ Today ] at the bottom - to jump to   
 
 [ TIPs ] - Panes - could be adjusted by "split slider" - mouse
-         - Columns headers - also - could be adjusted - mouse
-         - App - ( Auto ) - monitor maturity of Asset - on every Calculation
-         - Backup software makes file property [ Read - Only ] - In order to save file - it must be cleared
-         - Take screenshot - [ PrtScr ] - Paste into document - Zoom - Print - Email
-
-EE64 - creates regular, well - done, very small and totally stand - alone Windows apps
-     - with supreme algorithm design, professional choice of data structures and system API... etc  
-EE64 - also - as a subcontractor - does new developments, bug find / fix, porting legacy C/C++ code
+           - Columns headers - also - could be adjusted - mouse
+           - App - ( Auto ) - monitor maturity of Asset 
+                                     - on every Compute
+                                     - on every File open
+           - Backup software makes file property [ Read - Only ] 
+                                     - In order to save file - it must be cleared
+ 
+EE64 - creates regular, well - done, very small and totally stand - alone 
+           Windows apps
+        - with supreme algorithm design, professional choice of data structures 
+           and system API... etc  
+EE64 - also - as a subcontractor - does new developments, bug find / fix, 
+           porting legacy C/C++ code
 
 [ Aid - c2coco2c@outlook.com ]
 [ Showtime - Sit back, relax and Enjoy ]
 [ Best of Luck ]
+
